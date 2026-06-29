@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚀 Project Nova: Autonomous AI Co-Scientist
+# 🚀 Autonomous AI Co-Scientist
 
-**An enterprise-grade, LangGraph-powered multi-agent system that automates the scientific research lifecycle—from literature review to novel hypothesis generation and LLM-as-a-judge evaluation.**
+**LangGraph-powered multi-agent system that automates the scientific research lifecycle—from literature review to novel hypothesis generation and LLM-as-a-judge evaluation.**
 
 *Inspired by the ideas and research paper behind Google DeepMind's [AI Co-Scientist](https://arxiv.org/abs/2502.18864).*
 
