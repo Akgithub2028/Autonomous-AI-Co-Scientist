@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Autonomous AI Co-Scientist
+# 🚀 Project Nova: Autonomous AI Co-Scientist
 
 **LangGraph-powered multi-agent system that automates the scientific research lifecycle—from literature review to novel hypothesis generation and LLM-as-a-judge evaluation.**
 
@@ -9,7 +9,7 @@
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/)
 [![Streamlit App](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B.svg)](https://streamlit.io/)
 [![AI Agents](https://img.shields.io/badge/AI-Multi--Agent-00C7B7.svg)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-Apache-pink.svg)](https://opensource.org/licenses/Apache)
 
 </div>
 
