@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  coscientist:
+    build: .
+    env_file:
+      - .env
+    volumes:
+      - ./output:/app/output
+      - ./chroma_db:/app/chroma_db
+      - ~/.coscientist:/root/.coscientist
+    command: ["--run-benchmarks"]

@@ -2,5 +2,5 @@
 
 __version__ = "0.0.1"
 
-from coscientist.framework import CoscientistConfig, CoscientistFramework
-from coscientist.global_state import CoscientistState, CoscientistStateManager
+from coscientist.graphs.framework import CoscientistConfig, CoscientistFramework
+from coscientist.graphs.global_state import CoscientistState, CoscientistStateManager

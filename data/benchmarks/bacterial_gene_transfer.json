@@ -1,0 +1,14 @@
+{
+  "id": "bacterial_gene_transfer",
+  "goal": "Explain why a certain mobile genetic element (e.g. plasmid) is found in diverse bacterial species; propose the mechanism of its gene transfer.",
+  "constraints": [
+    "Use genetic and evolutionary insights",
+    "Exclude trivial answers",
+    "Novelty mandatory"
+  ],
+  "preferences": [
+    "Integrate knowledge of horizontal transfer",
+    "Microbial ecology context"
+  ],
+  "preferred_output_format": "NIH Specific Aims format"
+}

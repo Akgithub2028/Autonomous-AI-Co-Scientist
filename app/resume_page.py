@@ -6,8 +6,8 @@ import streamlit as st
 from background import _get_done_file_path, check_coscientist_status
 from common import get_available_states
 
-from coscientist.framework import CoscientistConfig, CoscientistFramework
-from coscientist.global_state import CoscientistState, CoscientistStateManager
+from coscientist.graphs.framework import CoscientistConfig, CoscientistFramework
+from coscientist.graphs.global_state import CoscientistState, CoscientistStateManager
 
 
 def coscientist_resume_target(goal: str):

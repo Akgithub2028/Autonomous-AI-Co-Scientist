@@ -17,8 +17,8 @@ except ImportError:
     exit(1)
 
 # Check API key
-if not os.getenv("GOOGLE_API_KEY"):
-    print("Warning: GOOGLE_API_KEY environment variable is not set. Evaluation requires the Google API.")
+if not os.getenv("PUTER_API_KEY"):
+    print("Warning: PUTER_API_KEY environment variable is not set. Evaluation requires the Puter API.")
 
 # ==========================================
 # Structured Output Schema

@@ -18,11 +18,11 @@ from background import (
 )
 
 # Import the configuration agent and required models
-from coscientist.configuration_agent import ConfigurationChatManager
+from coscientist.agents.configuration_agent import ConfigurationChatManager
 
 # Import coscientist framework components
-from coscientist.global_state import CoscientistState
-from coscientist.model_gateway import ModelGateway
+from coscientist.graphs.global_state import CoscientistState
+from coscientist.services.model_gateway import ModelGateway
 
 
 def get_llm_options():

@@ -4,7 +4,7 @@ from typing import Optional
 import streamlit as st
 
 # Import the necessary types from the coscientist package
-from coscientist.global_state import CoscientistState
+from coscientist.graphs.global_state import CoscientistState
 
 
 def load_coscientist_state(filepath: str) -> Optional[CoscientistState]:

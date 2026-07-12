@@ -98,4 +98,4 @@ def display_evaluation_page(state):
                     
             except Exception as e:
                 st.error(f"An error occurred during evaluation: {e}")
-                st.info("Check your GOOGLE_API_KEY and internet connection.")
+                st.info("Check your PUTER_API_KEY and internet connection.")

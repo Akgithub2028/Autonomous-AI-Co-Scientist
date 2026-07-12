@@ -1,6 +1,6 @@
 import asyncio
-from coscientist.framework import CoscientistFramework
-from coscientist.config import settings
+from coscientist.graphs.framework import CoscientistFramework
+from coscientist.configs.config import settings
 
 def main():
     print("Testing framework initialization...")

@@ -1,8 +1,8 @@
 import asyncio
 import os
 
-from coscientist.framework import CoscientistConfig, CoscientistFramework
-from coscientist.global_state import CoscientistState, CoscientistStateManager
+from coscientist.graphs.framework import CoscientistConfig, CoscientistFramework
+from coscientist.graphs.global_state import CoscientistState, CoscientistStateManager
 
 
 def _get_done_file_path(goal: str) -> str:
